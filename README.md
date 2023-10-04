@@ -4,8 +4,8 @@ A simple encrypter made with Python
 **NOTICE: Do NOT use this to protect your files. This is very easily decryptable t and was ony made for educational purposes only.**
 
 # How to use
-1. Download *.exe or source files
-
+1. [Download *.exe or source files](https://github.com/Mechinsam/NoviceEncrypter/releases/latest)
+![image](https://github.com/Mechinsam/NoviceEncrypter/assets/78374707/ead5d376-377c-43d0-aa14-6db70a8e6d06)
 
 2. Run NoviceEncrypter.exe or NoviceEncrypter.py
 3. Enjoy!
